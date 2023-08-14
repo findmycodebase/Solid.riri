@@ -1,3 +1,3 @@
-#LETS SEE HOW THIS GOES
+# LETS SEE HOW THIS GOES
 
-Scupa tu mana.
+Scupa tu mana!
